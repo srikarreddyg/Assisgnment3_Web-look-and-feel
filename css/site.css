@@ -1,0 +1,27 @@
+﻿html {
+    position: relative;
+    font: 14px;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+body, html {
+    height: 100%;
+    font-family: sans-serif;
+    /* background-color: lightgray; */
+}
+
+
+.ftr {
+    position: relative;
+    bottom: 0;
+    height: 60px;
+}
+
+.ftrtext {
+    text-align: center;
+}
